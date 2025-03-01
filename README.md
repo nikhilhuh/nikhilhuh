@@ -38,6 +38,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilhuh&theme=dark&hide_border=false)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilhuh&show_icons=true&theme=dark)
 
+**Repositories Count**: ![GitHub repo count](https://img.shields.io/github/repos/nikhilhuh?color=blue&style=for-the-badge)
+
 ---
 
 ### 📫 Let's Connect
