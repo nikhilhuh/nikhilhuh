@@ -37,7 +37,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilhuh&theme=dark&hide_border=false)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilhuh&show_icons=true&theme=dark)
-![GitHub repo count](https://img.shields.io/badge/Public%20Repositories-$(curl -s https://api.github.com/users/nikhilhuh | jq '.public_repos')-blue?style=for-the-badge)
+![GitHub repo count](https://img.shields.io/badge/Public%20Repositories-🔄-blue?style=for-the-badge)
 [![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilhuh&theme=dark)](https://github.com/nikhilhuh)
 
 ---
