@@ -17,13 +17,13 @@
 
 #### Programming Languages 
 
-WORK IN->
+##### WORK IN->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-007ACC?logo=javascript&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
-
-BASIC KNOWLEDGE OF->
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+
+##### BASIC KNOWLEDGE OF->
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 
 #### Frontend
