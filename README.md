@@ -1,14 +1,14 @@
 ### Hi there, I'm Nikhil Tiwari! 👋
 
-🚀 **Full Stack Developer | BCA Student @ VSICS, Kanpur**
+🚀 **MERN Stack Developer | BCA Student @ VSICS, Kanpur**
 
 ---
 
 ### 🔥 About Me
 
 - 🎓 Currently pursuing **BCA** at *VSICS Saket Nagar, Kanpur*.
-- 💻 Passionate **Full Stack Developer**.
-- ⚡ Skilled in **React.js, JavaScript, TypeScript, C, C++, Java, Node.js, Express, Socket.io, Tailwind CSS, CSS**.
+- 💻 Passionate **MERN Stack Developer**.
+- ⚡ Skilled in **JavaScript, TypeScript, C++, React js, Node js, Express js, Socket.io, Tailwind CSS, CSS**.
 - 📂 Check out my projects in my [repositories](https://github.com/nikhilhuh?tab=repositories).
 
 ---
@@ -16,9 +16,13 @@
 ### 🛠️ Tech Stack
 
 #### Programming Languages 
+
+WORK IN->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-007ACC?logo=javascript&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
+
+BASIC KNOWLEDGE OF->
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 
@@ -43,7 +47,6 @@
 
 ### 📫 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/nikhilhuh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nikhilhuh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
